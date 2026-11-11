@@ -1,0 +1,63 @@
+{
+  "apple": [
+    "black rot",
+    "mosaic virus",
+    "rust",
+    "scab"
+  ],
+  "banana": [
+    "anthracnose",
+    "black leaf streak",
+    "bunchy top",
+    "cigar end rot",
+    "cordana leaf spot",
+    "panama disease"
+  ],
+  "citrus": [
+    "canker",
+    "greening disease"
+  ],
+  "corn": [
+    "gray leaf spot",
+    "northern leaf blight",
+    "rust",
+    "smut"
+  ],
+  "potato": [
+    "early blight",
+    "late blight"
+  ],
+  "soybean": [
+    "bacterial blight",
+    "brown spot",
+    "downy mildew",
+    "frog eye leaf spot",
+    "mosaic",
+    "rust"
+  ],
+  "tomato": [
+    "bacterial leaf spot",
+    "early blight",
+    "late blight",
+    "leaf mold",
+    "mosaic virus",
+    "septoria leaf spot",
+    "yellow leaf curl virus"
+  ],
+  "wheat": [
+    "bacterial leaf streak (black chaff)",
+    "head scab",
+    "leaf rust",
+    "loose smut",
+    "powdery mildew",
+    "septoria blotch",
+    "stem rust",
+    "stripe rust"
+  ],
+  "zucchini": [
+    "bacterial wilt",
+    "downy mildew",
+    "powdery mildew",
+    "yellow mosaic virus"
+  ]
+}

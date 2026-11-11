@@ -1,0 +1,44 @@
+host,disease,class_name,source_class_index,assignment,disease_sort_position,class_role,known_class_id,unknown_group,disease_shared_with_known
+apple,black rot,apple :: black rot,0,B,1,known,0,known,
+apple,mosaic virus,apple :: mosaic virus,1,B,2,development_unknown,,familiar_host,True
+apple,rust,apple :: rust,2,B,3,test_unknown,,familiar_host,True
+apple,scab,apple :: scab,3,B,4,known,1,known,
+banana,anthracnose,banana :: anthracnose,4,B,1,known,2,known,
+banana,black leaf streak,banana :: black leaf streak,5,B,2,development_unknown,,familiar_host,False
+banana,bunchy top,banana :: bunchy top,6,B,3,test_unknown,,familiar_host,False
+banana,cigar end rot,banana :: cigar end rot,7,B,4,known,3,known,
+banana,cordana leaf spot,banana :: cordana leaf spot,8,B,5,known,4,known,
+banana,panama disease,banana :: panama disease,9,B,6,known,5,known,
+citrus,canker,citrus :: canker,38,B,1,development_unknown,,unfamiliar_host,
+citrus,greening disease,citrus :: greening disease,39,B,2,development_unknown,,unfamiliar_host,
+corn,gray leaf spot,corn :: gray leaf spot,44,B,1,known,6,known,
+corn,northern leaf blight,corn :: northern leaf blight,45,B,2,development_unknown,,familiar_host,False
+corn,rust,corn :: rust,46,B,3,test_unknown,,familiar_host,True
+corn,smut,corn :: smut,47,B,4,known,7,known,
+potato,early blight,potato :: early blight,75,B,1,test_unknown,,unfamiliar_host,
+potato,late blight,potato :: late blight,76,B,2,test_unknown,,unfamiliar_host,
+soybean,bacterial blight,soybean :: bacterial blight,83,B,1,known,8,known,
+soybean,brown spot,soybean :: brown spot,84,B,2,development_unknown,,familiar_host,False
+soybean,downy mildew,soybean :: downy mildew,85,B,3,test_unknown,,familiar_host,False
+soybean,frog eye leaf spot,soybean :: frog eye leaf spot,86,B,4,known,9,known,
+soybean,mosaic,soybean :: mosaic,87,B,5,known,10,known,
+soybean,rust,soybean :: rust,88,B,6,known,11,known,
+tomato,bacterial leaf spot,tomato :: bacterial leaf spot,96,B,1,known,12,known,
+tomato,early blight,tomato :: early blight,97,B,2,development_unknown,,familiar_host,False
+tomato,late blight,tomato :: late blight,98,B,3,test_unknown,,familiar_host,False
+tomato,leaf mold,tomato :: leaf mold,99,B,4,known,13,known,
+tomato,mosaic virus,tomato :: mosaic virus,100,B,5,known,14,known,
+tomato,septoria leaf spot,tomato :: septoria leaf spot,101,B,6,known,15,known,
+tomato,yellow leaf curl virus,tomato :: yellow leaf curl virus,102,B,7,known,16,known,
+wheat,bacterial leaf streak (black chaff),wheat :: bacterial leaf streak (black chaff),103,B,1,known,17,known,
+wheat,head scab,wheat :: head scab,104,B,2,development_unknown,,familiar_host,False
+wheat,leaf rust,wheat :: leaf rust,105,B,3,test_unknown,,familiar_host,False
+wheat,loose smut,wheat :: loose smut,106,B,4,known,18,known,
+wheat,powdery mildew,wheat :: powdery mildew,107,B,5,known,19,known,
+wheat,septoria blotch,wheat :: septoria blotch,108,B,6,known,20,known,
+wheat,stem rust,wheat :: stem rust,109,B,7,known,21,known,
+wheat,stripe rust,wheat :: stripe rust,110,B,8,known,22,known,
+zucchini,bacterial wilt,zucchini :: bacterial wilt,111,B,1,known,23,known,
+zucchini,downy mildew,zucchini :: downy mildew,112,B,2,development_unknown,,familiar_host,False
+zucchini,powdery mildew,zucchini :: powdery mildew,113,B,3,test_unknown,,familiar_host,True
+zucchini,yellow mosaic virus,zucchini :: yellow mosaic virus,114,B,4,known,24,known,

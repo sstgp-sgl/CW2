@@ -1,0 +1,44 @@
+host,disease,train,validation,test
+apple,black rot,0,8,0
+apple,mosaic virus,0,0,13
+apple,rust,63,12,22
+apple,scab,115,18,35
+banana,anthracnose,0,6,0
+banana,black leaf streak,0,0,25
+banana,bunchy top,56,9,13
+banana,cigar end rot,22,2,9
+banana,cordana leaf spot,19,3,8
+banana,panama disease,33,6,10
+citrus,canker,0,33,0
+citrus,greening disease,0,9,0
+corn,gray leaf spot,0,10,0
+corn,northern leaf blight,0,0,18
+corn,rust,84,13,23
+corn,smut,91,14,26
+potato,early blight,0,0,9
+potato,late blight,0,0,18
+soybean,bacterial blight,0,6,0
+soybean,brown spot,0,0,10
+soybean,downy mildew,56,6,14
+soybean,frog eye leaf spot,111,13,29
+soybean,mosaic,61,11,17
+soybean,rust,45,7,14
+tomato,bacterial leaf spot,0,9,0
+tomato,early blight,0,0,34
+tomato,late blight,84,14,19
+tomato,leaf mold,71,13,18
+tomato,mosaic virus,29,5,9
+tomato,septoria leaf spot,66,13,20
+tomato,yellow leaf curl virus,43,4,16
+wheat,bacterial leaf streak (black chaff),0,11,0
+wheat,head scab,0,0,44
+wheat,leaf rust,53,7,15
+wheat,loose smut,101,15,25
+wheat,powdery mildew,119,24,35
+wheat,septoria blotch,95,19,28
+wheat,stem rust,56,11,22
+wheat,stripe rust,160,25,43
+zucchini,bacterial wilt,0,7,0
+zucchini,downy mildew,0,0,5
+zucchini,powdery mildew,90,16,27
+zucchini,yellow mosaic virus,39,6,11

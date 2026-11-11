@@ -1,0 +1,5 @@
+image_id,host,disease,original_split
+apple_scab_54.jpg,apple,scab,training
+soybean_frog_eye_leaf_spot_Bing_0146.jpg,soybean,frog eye leaf spot,training
+tomato_leaf_mold_204.jpg,tomato,leaf mold,training
+wheat_stripe_rust_Baidu_0000.jpg,wheat,stripe rust,training

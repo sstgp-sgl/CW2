@@ -1,0 +1,26 @@
+host,disease,training_support
+apple,black rot,43
+apple,scab,115
+banana,anthracnose,35
+banana,cigar end rot,22
+banana,cordana leaf spot,19
+banana,panama disease,33
+corn,gray leaf spot,49
+corn,smut,91
+soybean,bacterial blight,41
+soybean,frog eye leaf spot,111
+soybean,mosaic,61
+soybean,rust,45
+tomato,bacterial leaf spot,63
+tomato,leaf mold,71
+tomato,mosaic virus,29
+tomato,septoria leaf spot,66
+tomato,yellow leaf curl virus,43
+wheat,bacterial leaf streak (black chaff),53
+wheat,loose smut,101
+wheat,powdery mildew,119
+wheat,septoria blotch,95
+wheat,stem rust,56
+wheat,stripe rust,160
+zucchini,bacterial wilt,38
+zucchini,yellow mosaic virus,39

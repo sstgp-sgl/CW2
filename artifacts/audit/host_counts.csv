@@ -1,0 +1,10 @@
+host,training,validation,test
+apple,274,46,82
+banana,244,36,74
+citrus,291,42,83
+corn,289,46,84
+potato,103,16,27
+soybean,356,46,98
+tomato,460,74,133
+wheat,798,137,231
+zucchini,192,32,55

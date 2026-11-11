@@ -1,0 +1,137 @@
+{
+  "created": "2025-11-26T06:07:29.573234+00:00",
+  "modified": "2025-12-28T12:49:52.550908+00:00",
+  "id": 17719108,
+  "conceptrecid": "13293890",
+  "doi": "10.5281/zenodo.17719108",
+  "conceptdoi": "10.5281/zenodo.13293890",
+  "doi_url": "https://doi.org/10.5281/zenodo.17719108",
+  "metadata": {
+    "title": "A Large-Scale In-the-wild Dataset for Plant Disease Segmentation",
+    "doi": "10.5281/zenodo.17719108",
+    "publication_date": "2025-11-25",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Wei, Tianqi",
+        "affiliation": "The University of Queensland",
+        "orcid": "0009-0005-0134-6438"
+      },
+      {
+        "name": "Chen, Zhi",
+        "affiliation": "University of Southern Queensland",
+        "orcid": "0000-0002-9385-144X"
+      },
+      {
+        "name": "Yu, Xin",
+        "affiliation": "The University of Queensland",
+        "orcid": "0000-0002-0269-5649"
+      },
+      {
+        "name": "Chapman, Scott",
+        "affiliation": "The University of Queensland",
+        "orcid": "0000-0003-4732-8452"
+      },
+      {
+        "name": "Melloy, Paul",
+        "affiliation": "Commonwealth Scientific and Industrial Research Organisation",
+        "orcid": "0000-0003-4253-7167"
+      },
+      {
+        "name": "HUANG, ZI",
+        "affiliation": "The University of Queensland",
+        "orcid": "0000-0002-9738-4949"
+      }
+    ],
+    "dates": [
+      {
+        "type": "created"
+      }
+    ],
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-nc-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 6,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "13293890"
+          }
+        }
+      ]
+    }
+  },
+  "title": "A Large-Scale In-the-wild Dataset for Plant Disease Segmentation",
+  "links": {
+    "self": "https://zenodo.org/api/records/17719108",
+    "self_html": "https://zenodo.org/records/17719108",
+    "preview_html": "https://zenodo.org/records/17719108?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.17719108",
+    "self_doi": "https://doi.org/10.5281/zenodo.17719108",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17719108",
+    "reserve_doi": "https://zenodo.org/api/records/17719108/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/13293890",
+    "parent_html": "https://zenodo.org/records/13293890",
+    "parent_doi": "https://doi.org/10.5281/zenodo.13293890",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13293890",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17719108/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17719108/sequence/default",
+    "files": "https://zenodo.org/api/records/17719108/files",
+    "media_files": "https://zenodo.org/api/records/17719108/media-files",
+    "latest": "https://zenodo.org/api/records/17719108/versions/latest",
+    "latest_html": "https://zenodo.org/records/17719108/latest",
+    "versions": "https://zenodo.org/api/records/17719108/versions",
+    "draft": "https://zenodo.org/api/records/17719108/draft",
+    "access_links": "https://zenodo.org/api/records/17719108/access/links",
+    "access_grants": "https://zenodo.org/api/records/17719108/access/grants",
+    "access_users": "https://zenodo.org/api/records/17719108/access/users",
+    "access_request": "https://zenodo.org/api/records/17719108/access/request",
+    "access": "https://zenodo.org/api/records/17719108/access",
+    "communities": "https://zenodo.org/api/records/17719108/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17719108/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/17719108/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/17719108/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/17719108/quota-increase",
+    "requests": "https://zenodo.org/api/records/17719108/requests"
+  },
+  "updated": "2025-12-28T12:49:52.550908+00:00",
+  "recid": "17719108",
+  "revision": 6,
+  "files": [
+    {
+      "id": "4fdf47a6-acf1-4c36-8771-ecaca42d8b42",
+      "key": "plantseg.zip",
+      "size": 1057281724,
+      "checksum": "md5:9358a66dff88cdd15c4fe009763c40a3",
+      "links": {
+        "self": "https://zenodo.org/api/records/17719108/files/plantseg.zip/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1173740"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 23617,
+    "unique_downloads": 8650,
+    "views": 19508,
+    "unique_views": 16582,
+    "version_downloads": 12269,
+    "version_unique_downloads": 4206,
+    "version_unique_views": 3824,
+    "version_views": 4540
+  },
+  "state": "done",
+  "submitted": true
+}

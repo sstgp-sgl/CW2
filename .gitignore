@@ -1,0 +1,11 @@
+data/raw/
+checkpoints/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+*.zip
+*.pt
+*.pth

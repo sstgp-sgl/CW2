@@ -1,0 +1,32 @@
+{
+  "status": "draft",
+  "dataset_version": "v7",
+  "record_id": 17719108,
+  "source_checksum_status": "verified",
+  "created_at": "2026-11-11T22:37:49.184325+08:00",
+  "sorting": "normalised lowercase disease; Unicode code-point ascending; remove exact host prefix",
+  "original_partition_policy": "preserved; no random splitting or cross-partition transfers",
+  "exclusion_policy": "unreadable images excluded globally; mask issues excluded for known training in both methods; duplicates unresolved",
+  "mask_policy": "only included known training; label equality to source_class_index+1, background 0",
+  "inference_inputs": "RGB only; no ground-truth masks, host metadata or class-bearing filenames",
+  "freeze_blockers": [
+    "Cross-partition exact duplicate groups unresolved",
+    "Team review and explicit protocol freeze pending",
+    "Training-mask exclusions/alignment require review"
+  ],
+  "near_duplicates": "not checked; limitation",
+  "file_sha256": {
+    "class_roles_A.csv": "4409d2114c62dc22aa2ef905ae29637da33c2e29329478aea1c7dae0dc2b6082",
+    "class_roles_B.csv": "567a74716634ad319a33a77a2ff08b7195f75926471bf4d4a99bdb92e8fe47db",
+    "class_support_A.csv": "332b26813400a6f9eebf9d5fa47f9feffd16124ba5096a2105837b1107c18612",
+    "class_support_B.csv": "154c7289ea6ca13c7e2c25a3d3ef8d1d6885520acb6c42b8e4cf07b60b3f48e6",
+    "group_counts_A.csv": "6cf5a32f22f1722047cd710311d2d96bc4cd9f1c153364a012f4584e1ae4ed4d",
+    "group_counts_B.csv": "a6d742536b170619842e259a1d058283057d1d6ebf370a75746c73772ee21779",
+    "known_class_ids_A.csv": "2d0c6f01a320d1249d4d9b25df02ac2c1d72ae458c4c3fd82cdc3ca731a124b0",
+    "known_class_ids_B.csv": "054e711b8482b937ab431b4c0e2d29adb5dd7804f7b30842606f057d0548344c",
+    "manifest_A.csv": "09792d274ab68be7f3feac46da41c81beddc16ea3634fecb26bbd0b7a00cc8c0",
+    "manifest_B.csv": "160bb79f15cfcacc7e93901b76858c495ce7768efb820f1cee566bddf8146cf1",
+    "training_support_A.csv": "d965c5fd6fda3d7f3d06ef0afca4622df6839064dd5d86a6cddb626c528035a4",
+    "training_support_B.csv": "838f4117038a2ad3df44033d868aee9cb87ba7384c88f09a0e3205042ac40124"
+  }
+}

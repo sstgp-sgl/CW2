@@ -1,0 +1,17 @@
+{
+  "synthetic_protocol_checks": [
+    "A: full role/split truth table and mask exclusion scope passed",
+    "B: full role/split truth table and mask exclusion scope passed",
+    "ZIP path traversal rejected before extraction",
+    "Repeated extraction verified; modified raw file rejected and preserved",
+    "Exact file/pixel duplicates across original partitions flagged"
+  ],
+  "note": "Synthetic checks validate implementation only; dataset findings are in audit_summary.json.",
+  "fresh_kernel_complete_runs": 2,
+  "executed_code_cells": 11,
+  "repeated_run_identical_files": 13,
+  "raw_data_preservation": "Existing extracted files verified by ZIP size/CRC; no raw overwrites",
+  "figures_reviewed": [
+    "known_training_examples.png"
+  ]
+}

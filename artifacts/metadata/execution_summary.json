@@ -1,0 +1,51 @@
+{
+  "run_at": "2026-11-11T22:37:49.184325+08:00",
+  "elapsed_seconds": 56.19,
+  "dataset_version": "v7",
+  "checksum_status": "verified",
+  "subset": {
+    "hosts": 9,
+    "classes": 43,
+    "images": 4349
+  },
+  "audit": {
+    "images": 4349,
+    "hosts": 9,
+    "classes": 43,
+    "unreadable_images": 0,
+    "mask_issues": 10,
+    "file_duplicate_groups": 161,
+    "pixel_duplicate_groups": 162,
+    "cross_partition_duplicate_images": 151,
+    "near_duplicate_check": "not performed; unresolved near-duplicate leakage is a limitation",
+    "pixel_hash_policy": "EXIF transpose, RGB, original oriented dimensions plus raw pixel bytes; no resizing"
+  },
+  "manifest_status": "draft",
+  "blockers": [
+    "Cross-partition exact duplicate groups unresolved",
+    "Team review and explicit protocol freeze pending",
+    "Training-mask exclusions/alignment require review"
+  ],
+  "outputs": [
+    "artifacts/metadata",
+    "artifacts/audit",
+    "artifacts/splits",
+    "artifacts/figures"
+  ],
+  "not_done": [
+    "near-duplicate audit",
+    "team protocol freeze",
+    "model training",
+    "hyperparameter search",
+    "test performance"
+  ],
+  "ai_assistance": {
+    "tool": "Codex",
+    "model_version": "not recorded",
+    "tasks": [
+      "task-sheet and source inspection",
+      "Day 1 notebook implementation",
+      "data integrity and protocol checks"
+    ]
+  }
+}
